@@ -1,0 +1,42 @@
+zomato master project is composed of client n server floders 
+client -> is the react application
+server -> is the backend where Nodejs , Express js, MOngodb,
+and Extensions ->1)cors  --> cors is used so that we can make cross origin requests , so cross origin requests are requests ocuuring from 2 diferent websites.
+        2)helmet   --> is something very important for the good developer is required to give security for the express applications using HTTP headers 
+        3)Babel     --> so babel is somethingwe call ita middelware where it conversts js es6 to es5 cuz our browsers does not support es6 
+        4)bcrypt   -->is an extension i used to decrypt the passowrd because  during the Authentication i cant leave passowrd in the form of texts tats 
+        5)passport-google-auth    -->so it is used to authurize ourselves using google ,This module lets you authenticate using Google in your Node.js applications.
+        6)JwtToken  -->JWT, or JSON Web Token, is an open standard used to share information between two parties securely — a client and a server. In most cases,
+         it’s an encoded JSON containing a set of claims and a signature
+
+         
+        Functions    in JavaScript’s
+Functions are like recipes. They can execute a set of instructions on data or variables and return the result. The beauty of functions is that they are recyclable. 
+That is, the function can be used repeatedly without having to write the same code again.
+
+Methods
+A method, like a function, is a set of instructions that perform a task. The difference is that a method is associated with an object, while a function is not. Let’s explore some of JavaScript’s built-in methods.
+
+
+Function	in Java
+Functions have independent existence. You can define them outside of the class.
+Functions don't have any reference variables.
+
+Methods 
+methodsdo not have independent existence. They are always defined within a class, struct, or enum.
+	Methods are called using reference variables.
+
+                
+        Express is a fast, assertive, essential and moderate web framework of Node.js.
+         You can assume express as a layer built on the top of the Node.js that helps manage a server and routes. 
+        It provides a robust set of features to develop web and mobile applications.\\
+
+
+
+        ////////////
+        joi
+The most powerful schema description language and data validator for JavaScript.
+
+///////client
+//classnames : are used to make conditional statements easy to use 
+        
